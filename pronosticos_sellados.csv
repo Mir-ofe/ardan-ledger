@@ -1,0 +1,2 @@
+seq,fecha_sorteo,estado,reemision,N1,N2,N3,N4,N5,N6,R,motor_commit,motor_src_sha256,sha256_fuente,ts_utc_generacion,hash_prev,hash_fila
+0,,genesis_historico_no_sellado,0,,,,,,,,,,9f039eb78f4b85043f43c422c9bd9c02602c7cc6f23deb8ea12601a8f20c4fc3,2026-10-09T21:32:08Z,0000000000000000000000000000000000000000000000000000000000000000,543214ae7cc0625451ebccd05ca317b17260d6cb546126183a84fef1452388df
